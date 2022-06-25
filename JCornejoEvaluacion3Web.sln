@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JCornejoEvaluacion3Web", "JCornejoEvaluacion3Web\JCornejoEvaluacion3Web.csproj", "{C3B21DFC-AD14-4165-9E24-F9A16A5C1AF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eva3Model", "Eva3Model\Eva3Model.csproj", "{95EB13F7-BB5C-4C5F-B6FB-B0A9D23EAB1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3B21DFC-AD14-4165-9E24-F9A16A5C1AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B21DFC-AD14-4165-9E24-F9A16A5C1AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B21DFC-AD14-4165-9E24-F9A16A5C1AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B21DFC-AD14-4165-9E24-F9A16A5C1AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95EB13F7-BB5C-4C5F-B6FB-B0A9D23EAB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95EB13F7-BB5C-4C5F-B6FB-B0A9D23EAB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95EB13F7-BB5C-4C5F-B6FB-B0A9D23EAB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95EB13F7-BB5C-4C5F-B6FB-B0A9D23EAB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F2D0DAC-697C-46E5-9A3D-075CC9A06340}
+	EndGlobalSection
+EndGlobal
